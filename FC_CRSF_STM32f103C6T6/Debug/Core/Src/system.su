@@ -1,0 +1,6 @@
+atomic.h:90:20:__basepriRestoreMem	24	static,ignoring_inline_asm
+atomic.h:96:23:__basepriSetMemRetVal	24	static,ignoring_inline_asm
+system.c:23:6:cycleCounterInit	8	static
+system.c:39:6:SysTick_Handler	24	static,ignoring_inline_asm
+system.c:53:10:microsISR	40	static,ignoring_inline_asm
+system.c:80:10:micros	24	static,ignoring_inline_asm

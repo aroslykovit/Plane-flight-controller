@@ -1,0 +1,5 @@
+PID.c:10:6:CalculatePitchPid	24	static
+PID.c:40:6:CalculateRollPid	24	static
+PID.c:68:6:CalculatePID	24	static
+PID.c:73:6:DTermFilterInit	8	static
+PID.c:78:6:CalculateAltPID	32	static

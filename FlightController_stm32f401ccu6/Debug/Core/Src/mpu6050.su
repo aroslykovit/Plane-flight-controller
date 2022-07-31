@@ -1,0 +1,8 @@
+mpu6050.c:76:10:microes	4	static
+mpu6050.c:80:9:MPU6050_Init	40	static
+mpu6050.c:127:6:BQfilterInit	16	static
+mpu6050.c:139:6:MPU6050_Read_All	32	static
+mpu6050.c:152:6:MadgwickQuaternionUpdate	192	static
+mpu6050.c:241:6:Calculate_all	64	static
+mpu6050.c:326:6:writeByte	32	static
+mpu6050.c:332:6:calibrateMPU6050	120	static

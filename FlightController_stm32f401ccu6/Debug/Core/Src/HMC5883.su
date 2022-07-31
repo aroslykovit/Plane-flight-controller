@@ -1,0 +1,7 @@
+HMC5883.c:27:9:HMC_Init	24	static
+HMC5883.c:37:9:HMC_Update	32	static
+HMC5883.c:69:6:SetDeclination	24	static
+HMC5883.c:89:6:SetSamplingMode	40	static
+HMC5883.c:97:6:SetScaleMode	32	static
+HMC5883.c:134:6:SetMeasureMode	32	static
+HMC5883.c:139:7:CompasReadAndCompensate	88	static

@@ -1,0 +1,3 @@
+BiQuadFilter.c:11:6:BiQuadFilterInit	40	static
+BiQuadFilter.c:30:5:CalcBiQuad	16	static
+BiQuadFilter.c:52:5:OutBiQuad	16	static

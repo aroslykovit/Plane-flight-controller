@@ -1,0 +1,17 @@
+IMU.c:85:13:imuQuaternionComputeProducts	16	static
+IMU.c:98:7:imuComputeRotationMatrix	8	static
+IMU.c:116:14:calculateThrottleAngleScale	16	static
+IMU.c:121:6:imuConfigure	16	static
+IMU.c:128:6:imuInit	8	static
+IMU.c:144:14:invSqrt	16	static
+IMU.c:149:13:imuMahonyAHRSupdate	104	static
+IMU.c:275:6:imuUpdateEulerAngles	48	static
+IMU.c:297:14:imuCalcKpGain	32	static
+IMU.c:359:13:imuComputeQuaternionFromRPY	64	static
+IMU.c:405:13:imuCalculateEstimatedAttitude	80	static
+IMU.c:461:6:imuUpdateAttitude	16	static
+IMU.c:476:6:shouldInitializeGPSHeading	4	static
+IMU.c:489:7:getCosTiltAngle	4	static
+IMU.c:494:6:getQuaternion	16	static
+IMU.c:505:6:imuQuaternionMultiplication	56	static
+IMU.c:524:6:isUpright	4	static

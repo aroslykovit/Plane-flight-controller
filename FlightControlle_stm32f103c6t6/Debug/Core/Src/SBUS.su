@@ -1,0 +1,2 @@
+SBUS.c:10:10:sbus_to_pwm	24	static
+SBUS.c:20:10:CalculateSBUS	24	static

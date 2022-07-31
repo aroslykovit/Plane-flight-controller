@@ -1,0 +1,5 @@
+CRSF.c:18:6:ProcessCRSF	40	static
+CRSF.c:54:9:crsfFrameCRC	16	static
+CRSF.c:64:6:DWT_Init	4	static
+CRSF.c:69:6:ProcessFrame	16	static
+CRSF.c:93:10:crsfReadRawRC	16	static

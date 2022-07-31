@@ -1,0 +1,8 @@
+Biquad.c:23:6:BiquadInit	40	static
+Biquad.c:28:7:process	32	static
+Biquad.c:35:6:setType	16	static
+Biquad.c:40:6:setQ	24	static
+Biquad.c:45:6:setFc	24	static
+Biquad.c:50:6:setPeakGain	24	static
+Biquad.c:55:6:setBiquad	40	static
+Biquad.c:62:6:calcBiquad	48	static
